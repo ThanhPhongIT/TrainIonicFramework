@@ -1,0 +1,7 @@
+{
+  "name": "ionictrannings",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
